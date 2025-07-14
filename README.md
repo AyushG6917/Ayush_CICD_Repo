@@ -1,4 +1,4 @@
-# 🚀 CI/CD Pipeline with GitHub, AWS CodeBuild, CodeDeploy & CodePipeline
+# 🚀 CI/CD Pipeline with Git, AWS CodeBuild, CodeDeploy & CodePipeline
 
 This project demonstrates how to build an automated **CI/CD pipeline** using **AWS Developer Tools** and **GitHub** to deploy a web application on an **EC2 instance**. It showcases real-world DevOps practices like continuous integration, build automation, deployment, and version control.
 
@@ -6,7 +6,7 @@ This project demonstrates how to build an automated **CI/CD pipeline** using **A
 
 ## 📌 Features
 
-- Integration with **GitHub** for source control
+- Integration with **Git** for source control
 - **AWS CodePipeline** for workflow orchestration
 - **AWS CodeBuild** for building and testing code
 - **AWS CodeDeploy** for automated deployment on EC2
